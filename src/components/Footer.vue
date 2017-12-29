@@ -1,6 +1,22 @@
 <template>
 <div>
-    footer
+  <b-container class="space">
+     <b-row>
+       <b-col>
+         © 2017 SPORT, Inc
+       </b-col>
+       <b-col>
+          <p><a target="_self" href="#">Contact
+                            Us</a></p>
+       </b-col>
+       <b-col>
+         <p> | </p>
+       </b-col>
+       <b-col>
+           <p><a target="_self" href="#">Terms of Use</a></p>
+       </b-col>
+    </b-row>
+</b-container>
 </div>  
 </template>
 

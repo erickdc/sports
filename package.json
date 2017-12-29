@@ -13,6 +13,7 @@
     "bootstrap-vue": "^1.2.0",
     "popper.js": "^1.12.9",
     "vue": "^2.5.3",
+    "vue-router": "^3.0.1",
     "vue-scrollto": "^2.8.0"
   },
   "devDependencies": {
